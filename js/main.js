@@ -111,3 +111,4 @@ console.log("Enemigos Dungeon 3")
   for (let i = 0; i < personajesOrdenados.length; i++) {
     console.log(personajesOrdenados[i].nombre + ": " + personajesOrdenados[i].ataque);
   }
+
